@@ -1,7 +1,7 @@
 {
 	"version": 1,
 	"license": "CC-BY-SA-3.0",
-    "copyright": "Sprited by SolsticeOfTheWinter, bsokit-ipc states recolored by pheenty",
+    "copyright": "Sprited by SolsticeOfTheWinter, bsokit-ipc states recolored by pheenty, in-hand sprites recoloured by @seyriix",
 	"size": {
 		"x": 32,
 		"y": 32
@@ -49,6 +49,54 @@
     },
     {
       "name": "blackpurplekit-inhand-right",
+      "directions": 4
+    },
+    {
+      "name": "firstaid-inhand-right",
+      "directions": 4
+    },
+    {
+      "name": "firstaid-inhand-left",
+      "directions": 4
+    },
+		{
+      "name": "brutekit-inhand-right",
+      "directions": 4
+    },
+    {
+      "name": "brutekit-inhand-left",
+      "directions": 4
+    },
+		{
+      "name": "burnkit-inhand-right",
+      "directions": 4
+    },
+    {
+      "name": "burnkit-inhand-left",
+      "directions": 4
+    },
+    		{
+      "name": "o2kit-inhand-right",
+      "directions": 4
+    },
+    {
+      "name": "o2kit-inhand-left",
+      "directions": 4
+    },
+		{
+      "name": "radkit-inhand-right",
+      "directions": 4
+    },
+    {
+      "name": "radkit-inhand-left",
+      "directions": 4
+    },
+    {
+      "name": "toxinkit-inhand-right",
+      "directions": 4
+    },
+    {
+      "name": "toxinkit-inhand-left",
       "directions": 4
     }
 	]

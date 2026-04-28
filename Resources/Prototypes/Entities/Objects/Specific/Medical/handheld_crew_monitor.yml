@@ -35,7 +35,7 @@
   - type: Item
     heldPrefix: scanner
   - type: Sprite
-    sprite: Objects/Specific/Medical/handheldcrewmonitor.rsi
+    sprite: _Goobstation/Objects/Specific/Medical/handheldcrewmonitor.rsi # Goob edit
     state: scanner
   - type: ActivatableUI
     key: enum.CrewMonitoringUIKey.Key
