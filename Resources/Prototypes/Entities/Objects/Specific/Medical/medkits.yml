@@ -39,7 +39,7 @@
     - 0,0,3,1
   - type: Item
     size: Large
-    sprite: Objects/Specific/Medical/firstaidkits.rsi
+    sprite: _Goobstation/Objects/Specific/Medical/firstaidkits.rsi # Goob edit
     heldPrefix: firstaid
   - type: PhysicalComposition #Goobstation - Recycle update
     materialComposition:
