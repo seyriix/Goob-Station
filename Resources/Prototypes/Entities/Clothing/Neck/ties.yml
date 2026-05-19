@@ -47,9 +47,9 @@
   description: Why do we all have to wear these ridiculous ties?
   components:
   - type: Sprite
-    sprite: Clothing/Neck/Ties/scitie.rsi
+    sprite: _Goobstation/Clothing/Neck/Ties/scitie.rsi # Goob edit
   - type: Clothing
-    sprite: Clothing/Neck/Ties/scitie.rsi
+    sprite: _Goobstation/Clothing/Neck/Ties/scitie.rsi # Goob edit
   - type: Tag
     tags:
     - ClothMade

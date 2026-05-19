@@ -180,7 +180,7 @@
   description: A large duffel bag for holding extra science related goods.
   components:
   - type: Sprite
-    sprite: Clothing/Back/Duffels/science.rsi
+    sprite: _Goobstation/Clothing/Back/Duffels/science.rsi # Goob Station edit
 
 - type: entity
   parent: ClothingBackpackDuffel

@@ -226,7 +226,7 @@
   description: A backpack specially designed to repel stains and hazardous liquids.
   components:
   - type: Sprite
-    sprite: Clothing/Back/Backpacks/science.rsi
+    sprite: _Goobstation/Clothing/Back/Backpacks/science.rsi # Goob edit
 
 - type: entity
   parent: ClothingBackpack
