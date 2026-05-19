@@ -351,9 +351,9 @@
   name: head of personnel's winter coat
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coathop.rsi
+    sprite: _Goobstation/Clothing/OuterClothing/Wintercoats/coathop.rsi # goob edit
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coathop.rsi
+    sprite: _Goobstation/Clothing/OuterClothing/Wintercoats/coathop.rsi # goob edit
   - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototypes:
       head: ClothingHeadHatHoodWinterHOP
