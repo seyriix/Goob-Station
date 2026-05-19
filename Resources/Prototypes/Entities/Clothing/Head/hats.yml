@@ -266,9 +266,9 @@
   description: A beret for real scientists.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hats/beret_rnd.rsi
+    sprite: _Goobstation/Clothing/Head/Hats/beret_rnd.rsi # Goob edit
   - type: Clothing
-    sprite: Clothing/Head/Hats/beret_rnd.rsi
+    sprite: _Goobstation/Clothing/Head/Hats/beret_rnd.rsi # Goob edit
   - type: Tag
     tags:
     - PetWearable
