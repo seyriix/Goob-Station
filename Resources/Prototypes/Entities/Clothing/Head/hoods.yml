@@ -340,9 +340,9 @@
   name: cargo winter coat hood
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hoods/Coat/hoodcargo.rsi
+    sprite: _Goobstation/Clothing/Head/Hoods/hoodcargo.rsi # goob edit
   - type: Clothing
-    sprite: Clothing/Head/Hoods/Coat/hoodcargo.rsi
+    sprite: _Goobstation/Clothing/Head/Hoods/hoodcargo.rsi # goob edit
 
 - type: entity
   parent: ClothingHeadHatHoodWinterBase
@@ -351,9 +351,9 @@
   name: chief engineer's winter coat hood
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hoods/Coat/hoodce.rsi
+    sprite: _Goobstation/Clothing/Head/Hoods/hoodce.rsi # goob edit
   - type: Clothing
-    sprite: Clothing/Head/Hoods/Coat/hoodce.rsi
+    sprite: _Goobstation/Clothing/Head/Hoods/hoodce.rsi # goob edit
 
 - type: entity
   parent: ClothingHeadHatHoodWinterBase
@@ -374,9 +374,9 @@
   name: chemist winter coat hood
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hoods/Coat/hoodchemist.rsi
+    sprite: _Goobstation/Clothing/Head/Hoods/hoodchemist.rsi # goob edit
   - type: Clothing
-    sprite: Clothing/Head/Hoods/Coat/hoodchemist.rsi
+    sprite: _Goobstation/Clothing/Head/Hoods/hoodchemist.rsi # goob edit
 
 - type: entity
   parent: ClothingHeadHatHoodWinterBase
@@ -385,9 +385,9 @@
   name: chief medical officer's winter coat hood
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hoods/Coat/hoodcmo.rsi
+    sprite: _Goobstation/Clothing/Head/Hoods/hoodcmo.rsi # goob edit
   - type: Clothing
-    sprite: Clothing/Head/Hoods/Coat/hoodcmo.rsi
+    sprite: _Goobstation/Clothing/Head/Hoods/hoodcmo.rsi # goob edit
 
 - type: entity
   parent: ClothingHeadHatHoodWinterBase
@@ -451,9 +451,9 @@
   name: medic coat hood
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hoods/Coat/hoodmed.rsi
+    sprite: _Goobstation/Clothing/Head/Hoods/hoodmed.rsi # goob edit
   - type: Clothing
-    sprite: Clothing/Head/Hoods/Coat/hoodmed.rsi
+    sprite: _Goobstation/Clothing/Head/Hoods/hoodmed.rsi # goob edit
 
 - type: entity
   parent: ClothingHeadHatHoodWinterBase

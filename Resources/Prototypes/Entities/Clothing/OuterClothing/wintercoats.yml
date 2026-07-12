@@ -110,9 +110,9 @@
   name: cargo winter coat
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coatcargo.rsi
+    sprite: _Goobstation/Clothing/OuterClothing/Wintercoats/coatcargo.rsi # goob edit
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coatcargo.rsi
+    sprite: _Goobstation/Clothing/OuterClothing/Wintercoats/coatcargo.rsi # goob edit
   - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototypes:
       head: ClothingHeadHatHoodWinterCargo
@@ -123,9 +123,9 @@
   name: chief engineer's winter coat
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coatce.rsi
+    sprite: _Goobstation/Clothing/OuterClothing/Wintercoats/coatce.rsi # goob edit
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coatce.rsi
+    sprite: _Goobstation/Clothing/OuterClothing/Wintercoats/coatce.rsi # goob edit
   - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototypes:
       head: ClothingHeadHatHoodWinterCE
@@ -160,9 +160,9 @@
   name: chemistry winter coat
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coatchem.rsi
+    sprite: _Goobstation/Clothing/OuterClothing/Wintercoats/coatchem.rsi # goob edit
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coatchem.rsi
+    sprite: _Goobstation/Clothing/OuterClothing/Wintercoats/coatchem.rsi # goob edit
   - type: Armor
     modifiers:
       coefficients:
@@ -180,9 +180,9 @@
   name: chief medical officer's winter coat
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coatcmo.rsi
+    sprite: _Goobstation/Clothing/OuterClothing/Wintercoats/coatcmo.rsi # goob edit
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coatcmo.rsi
+    sprite: _Goobstation/Clothing/OuterClothing/Wintercoats/coatcmo.rsi # goob edit
   - type: Armor
     modifiers:
       coefficients:
@@ -333,9 +333,9 @@
   name: medical winter coat
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coatmed.rsi
+    sprite: _Goobstation/Clothing/OuterClothing/Wintercoats/coatmed.rsi # goob edit
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coatmed.rsi
+    sprite: _Goobstation/Clothing/OuterClothing/Wintercoats/coatmed.rsi # goob edit
   - type: Armor
     modifiers:
       coefficients:
