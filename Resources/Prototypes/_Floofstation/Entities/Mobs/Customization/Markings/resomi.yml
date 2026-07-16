@@ -7,8 +7,8 @@
   speciesRestriction: [Resomi]
   forcedColoring: true
   sprites:
-  - sprite: _Floofstation/Mobs/Customization/resomi_parts.rsi
-    state: tail
+  - sprite: _Goobstation/Mobs/Customization/Resomi/tail.rsi
+    state: default_tail
 
 - type: marking
   id: ResomiTailFeathers

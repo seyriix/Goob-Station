@@ -8,7 +8,11 @@
     },
     "states": [
         {
-            "name": "resomi_ears",
+            "name": "resomibigtail",
+            "directions": 4
+        },
+        {
+            "name": "default_tail",
             "directions": 4
         }
     ]

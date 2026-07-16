@@ -63,10 +63,11 @@
     Tail:
       points: 2
       required: true
-      defaultMarkings: [ ResomiTail, ResomiTailFeathers ]
+      defaultMarkings: [ ResomiTail ]
     HeadTop:
-      points: 8
-      required: false
+      points: 1
+      required: true
+      defaultMarkings: [ ResomiDefaultEars]
     HeadSide:
       points: 8
       required: false
@@ -107,107 +108,107 @@
 - type: humanoidBaseSprite
   id: MobResomiEyes
   baseSprite:
-    sprite: _Floofstation/Mobs/Customization/eyes.rsi
-    state: resomi
+    sprite: _Goobstation/Mobs/Customization/Resomi/eyes.rsi
+    state: eyes
 
 - type: humanoidBaseSprite
   id: MobResomiHead
   baseSprite:
-    sprite: _Floofstation/Mobs/Species/Resomi/parts.rsi
-    state: head_m
+    sprite: _Goobstation/Mobs/Species/Resomi/parts.rsi
+    state: head
 
 - type: humanoidBaseSprite
   id: MobResomiHeadMale
   baseSprite:
-    sprite: _Floofstation/Mobs/Species/Resomi/parts.rsi
-    state: head_m
+    sprite: _Goobstation/Mobs/Species/Resomi/parts.rsi
+    state: head
 
 - type: humanoidBaseSprite
   id: MobResomiHeadFemale
   baseSprite:
-    sprite: _Floofstation/Mobs/Species/Resomi/parts.rsi
-    state: head_f
+    sprite: _Goobstation/Mobs/Species/Resomi/parts.rsi
+    state: head
 
 - type: humanoidBaseSprite
   id: MobResomiChest
   baseSprite:
-    sprite: _Floofstation/Mobs/Species/Resomi/parts.rsi
-    state: chest_m
+    sprite: _Goobstation/Mobs/Species/Resomi/parts.rsi
+    state: chest
 
 - type: humanoidBaseSprite
   id: MobResomiChestMale
   baseSprite:
-    sprite: _Floofstation/Mobs/Species/Resomi/parts.rsi
-    state: chest_m
+    sprite: _Goobstation/Mobs/Species/Resomi/parts.rsi
+    state: chest
 
 - type: humanoidBaseSprite
   id: MobResomiChestFemale
   baseSprite:
-    sprite: _Floofstation/Mobs/Species/Resomi/parts.rsi
-    state: chest_f
+    sprite: _Goobstation/Mobs/Species/Resomi/parts.rsi
+    state: chest
 
 - type: humanoidBaseSprite
   id: MobResomiGroin
   baseSprite:
-    sprite: _Floofstation/Mobs/Species/Resomi/parts.rsi
-    state: groin_m
+    sprite: _Goobstation/Mobs/Species/Resomi/parts.rsi
+    state: groin
 
 - type: humanoidBaseSprite
   id: MobResomiGroinMale
   baseSprite:
-    sprite: _Floofstation/Mobs/Species/Resomi/parts.rsi
-    state: groin_m
+    sprite: _Goobstation/Mobs/Species/Resomi/parts.rsi
+    state: groin
 
 - type: humanoidBaseSprite
   id: MobResomiGroinFemale
   baseSprite:
-    sprite: _Floofstation/Mobs/Species/Resomi/parts.rsi
-    state: groin_f
+    sprite: _Goobstation/Mobs/Species/Resomi/parts.rsi
+    state: groin
 
 - type: humanoidBaseSprite
   id: MobResomiLLeg
   baseSprite:
-    sprite: _Floofstation/Mobs/Species/Resomi/parts.rsi
+    sprite: _Goobstation/Mobs/Species/Resomi/parts.rsi
     state: l_leg
 
 - type: humanoidBaseSprite
   id: MobResomiLArm
   baseSprite:
-    sprite: _Floofstation/Mobs/Species/Resomi/parts.rsi
+    sprite: _Goobstation/Mobs/Species/Resomi/parts.rsi
     state: l_arm
 
 - type: humanoidBaseSprite
   id: MobResomiLHand
   baseSprite:
-    sprite: _Floofstation/Mobs/Species/Resomi/parts.rsi
+    sprite: _Goobstation/Mobs/Species/Resomi/parts.rsi
     state: l_hand
 
 - type: humanoidBaseSprite
   id: MobResomiLFoot
   baseSprite:
-    sprite: _Floofstation/Mobs/Species/Resomi/parts.rsi
+    sprite: _Goobstation/Mobs/Species/Resomi/parts.rsi
     state: l_foot
 
 - type: humanoidBaseSprite
   id: MobResomiRLeg
   baseSprite:
-    sprite: _Floofstation/Mobs/Species/Resomi/parts.rsi
+    sprite: _Goobstation/Mobs/Species/Resomi/parts.rsi
     state: r_leg
 
 - type: humanoidBaseSprite
   id: MobResomiRArm
   baseSprite:
-    sprite: _Floofstation/Mobs/Species/Resomi/parts.rsi
+    sprite: _Goobstation/Mobs/Species/Resomi/parts.rsi
     state: r_arm
 
 - type: humanoidBaseSprite
   id: MobResomiRHand
   baseSprite:
-    sprite: _Floofstation/Mobs/Species/Resomi/parts.rsi
+    sprite: _Goobstation/Mobs/Species/Resomi/parts.rsi
     state: r_hand
 
 - type: humanoidBaseSprite
   id: MobResomiRFoot
   baseSprite:
-    sprite: _Floofstation/Mobs/Species/Resomi/parts.rsi
+    sprite: _Goobstation/Mobs/Species/Resomi/parts.rsi
     state: r_foot

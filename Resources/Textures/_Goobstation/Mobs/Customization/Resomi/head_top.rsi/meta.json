@@ -8,7 +8,11 @@
     },
     "states": [
         {
-            "name": "resomibigtail",
+            "name": "big_ears",
+            "directions": 4
+        },
+        {
+            "name": "default_ears",
             "directions": 4
         }
     ]
