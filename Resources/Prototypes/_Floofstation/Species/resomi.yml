@@ -63,7 +63,7 @@
     Tail:
       points: 2
       required: true
-      defaultMarkings: [ ResomiTail ]
+      defaultMarkings: [ ResomiDefaultTail ]
     HeadTop:
       points: 1
       required: true

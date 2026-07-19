@@ -1,25 +1,6 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 - type: marking
-  id: ResomiTail
-  bodyPart: Tail    #Goob - was Chest
-  markingCategory: Tail
-  speciesRestriction: [Resomi]
-  forcedColoring: true
-  sprites:
-  - sprite: _Goobstation/Mobs/Customization/Resomi/tail.rsi
-    state: default_tail
-
-- type: marking
-  id: ResomiTailFeathers
-  bodyPart: Tail #Goob - was Chest
-  markingCategory: Tail
-  speciesRestriction: [Resomi]
-  sprites:
-  - sprite: _Floofstation/Mobs/Customization/resomi_parts.rsi
-    state: tail_feathers
-
-- type: marking
   id: ResomiLArmFeathers
   bodyPart: LHand
   markingCategory: LeftHand

@@ -4,24 +4,31 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-marking-ResomiTail = Resomi tail
-marking-ResomiTail-tail = Resomi tail
-marking-ResomiTailFeathers = Tail feathers
-marking-ResomiTailFeathers-tail_feathers = Tail feathers
-marking-ResomiLArmFeathers = Resomi left arm Feathers
-marking-ResomiLArmFeathers-l_hand_feathers = Resomi left arm Feathers
-marking-ResomiLLegFeathers = Resomi left leg Feathers
-marking-ResomiLLegFeathers-l_foot_feathers = Resomi left leg Feathers
-marking-ResomiRArmFeathers = Resomi right arm Feathers
-marking-ResomiRArmFeathers-r_hand_feathers = Resomi right arm Feathers
-marking-ResomiRLegFeathers = Resomi right leg Feathers
-marking-ResomiRLegFeathers-r_foot_feathers = Resomi right leg Feathers
-marking-ResomiFluff = Resomi under fluff
-marking-ResomiFluff-fluff = Resomi under fluff
-marking-ResomiFluffHead = Resomi head fluff
-marking-ResomiFluffHead-fluff_head = Resomi head fluff
-marking-ResomiFluffHeadUp = Resomi head fluff (up)
-marking-ResomiFluffHeadUp-fluff_head_up = Resomi head fluff (up)
-marking-ResomiFeathersBig = Big tail feathers
-marking-ResomiFluffyChest = Big puffy chest
-marking-ResomiEars = Big ears
+marking-ResomiDefaultTail = Default tail
+marking-ResomiDefaultTail-default_tail = Tail
+# Stripes
+marking-ResomiDefaultTailStripes = Default tail stripes
+marking-ResomiDefaultTailStripes-default_stripes = Tail stripes
+marking-ResomiDefaultTailStripes-default_feathers = Tail feathers
+marking-ResomiDefaultTailStripes-default_tail = Tail
+# Half
+marking-ResomiDefaultTailHalf = Default tail half-tail
+marking-ResomiDefaultTailHalf-default_half = Default half-tail
+marking-ResomiDefaultTailHalf-default_feathers = Tail feathers
+marking-ResomiDefaultTailHalf-default_tail = Tail
+# Tip
+marking-ResomiDefaultTailTip = Default tail tail-tip
+marking-ResomiDefaultTailTip-default_tip = Default tail-tip
+marking-ResomiDefaultTailTip-default_feathers = Tail feathers
+marking-ResomiDefaultTailTip-default_tail = Tail
+# Feathers
+marking-ResomiDefaultTailFeathers = Default tail feathers
+marking-ResomiDefaultTailFeathers-default_feathers = Tail feathers
+marking-ResomiDefaultTailFeathers-default_tail = Tail
+# Big feathers
+marking-ResomiDefaultTailBig = Default big tail feathers
+marking-ResomiDefaultTailBig-default_bigfeathers = Big tail feathers
+marking-ResomiDefaultTailBig-default_tail = Tail
+
+marking-ResomiDefaultEars = Default ears
+marking-ResomiDefaultEars-default_ears = Default ears

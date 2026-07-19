@@ -1,16 +1,124 @@
 ﻿
-# Resomi Tails
+# Tails
+
 - type: marking
-  id: ResomiFeathersBig
+  id: ResomiDefaultTail
   bodyPart: Tail
   markingCategory: Tail
   speciesRestriction: [Resomi]
   sprites:
-  - sprite: _Floofstation/Mobs/Customization/resomi_parts.rsi
-    state: tail
-  - sprite: _Goobstation/Mobs/Customization/Resomi/Resomi_tail.rsi
-    state: resomibigtail
-# Resomi head
+  - sprite: _Goobstation/Mobs/Customization/Resomi/tail.rsi
+    state: default_tail
+
+- type: marking
+  id: ResomiDefaultTailFeathers
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Resomi]
+  sprites:
+  - sprite: _Goobstation/Mobs/Customization/Resomi/tail.rsi
+    state: default_tail
+  - sprite: _Goobstation/Mobs/Customization/Resomi/tail.rsi
+    state: default_feathers
+
+- type: marking
+  id: ResomiDefaultTailStripes
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Resomi]
+  sprites:
+  - sprite: _Goobstation/Mobs/Customization/Resomi/tail.rsi
+    state: default_tail
+  - sprite: _Goobstation/Mobs/Customization/Resomi/tail.rsi
+    state: default_feathers
+  - sprite: _Goobstation/Mobs/Customization/Resomi/tail.rsi
+    state: default_stripes
+
+- type: marking
+  id: ResomiDefaultTailHalf
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Resomi]
+  sprites:
+  - sprite: _Goobstation/Mobs/Customization/Resomi/tail.rsi
+    state: default_tail
+  - sprite: _Goobstation/Mobs/Customization/Resomi/tail.rsi
+    state: default_feathers
+  - sprite: _Goobstation/Mobs/Customization/Resomi/tail.rsi
+    state: default_half
+
+- type: marking
+  id: ResomiDefaultTailTip
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Resomi]
+  sprites:
+  - sprite: _Goobstation/Mobs/Customization/Resomi/tail.rsi
+    state: default_tail
+  - sprite: _Goobstation/Mobs/Customization/Resomi/tail.rsi
+    state: default_feathers
+  - sprite: _Goobstation/Mobs/Customization/Resomi/tail.rsi
+    state: default_tip
+
+- type: marking
+  id: ResomiDefaultTailBig
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Resomi]
+  sprites:
+  - sprite: _Goobstation/Mobs/Customization/Resomi/tail.rsi
+    state: default_tail
+  - sprite: _Goobstation/Mobs/Customization/Resomi/tail.rsi
+    state: default_feathers
+  - sprite: _Goobstation/Mobs/Customization/Resomi/tail.rsi
+    state: default_bigfeathers
+
+- type: marking
+  id: ResomiNubTail
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Resomi]
+  sprites:
+  - sprite: _Goobstation/Mobs/Customization/Resomi/tail.rsi
+    state: nub_tail
+
+- type: marking
+  id: ResomiShortTail
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Resomi]
+  sprites:
+  - sprite: _Goobstation/Mobs/Customization/Resomi/tail.rsi
+    state: short_tail
+
+- type: marking
+  id: ResomiCurvyTail
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Resomi]
+  sprites:
+  - sprite: _Goobstation/Mobs/Customization/Resomi/tail.rsi
+    state: curvy_tail
+
+- type: marking
+  id: ResomiStringyTail
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Resomi]
+  sprites:
+  - sprite: _Goobstation/Mobs/Customization/Resomi/tail.rsi
+    state: stringy_tail
+
+- type: marking
+  id: ResomiCurledTail
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Resomi]
+  sprites:
+  - sprite: _Goobstation/Mobs/Customization/Resomi/tail.rsi
+    state: curled_tail
+
+# Head Top
 - type: marking
   id: ResomiBigEars
   bodyPart: HeadTop
@@ -29,13 +137,12 @@
   - sprite: _Goobstation/Mobs/Customization/Resomi/head_top.rsi
     state: default_ears
 
-
-# Resomi Chest
+# Chest
 - type: marking
   id: ResomiFluffyChest
   bodyPart: Tail
   markingCategory: Chest
   speciesRestriction: [Resomi]
   sprites:
-  - sprite: _Goobstation/Mobs/Customization/Resomi/Resomi_chest.rsi
+  - sprite: _Goobstation/Mobs/Customization/Resomi/chest.rsi
     state: resomifluffchest

@@ -8,11 +8,47 @@
     },
     "states": [
         {
-            "name": "resomibigtail",
+            "name": "default_bigfeathers",
             "directions": 4
         },
         {
             "name": "default_tail",
+            "directions": 4
+        },
+        {
+            "name": "default_half",
+            "directions": 4
+        },
+        {
+            "name": "default_stripes",
+            "directions": 4
+        },
+        {
+            "name": "default_tip",
+            "directions": 4
+        },
+        {
+            "name": "default_feathers",
+            "directions": 4
+        },
+        {
+            "name": "nub_tail",
+            "directions": 4
+        },
+        {
+            "name": "stringy_tail",
+            "directions": 4
+        },
+        {
+            "name": "curvy_tail",
+            "directions": 4
+        },
+        {
+            "name": "curled_tail",
+            "directions": 4
+        },
+        {
+            "name": "short_tail",
             "directions": 4
         }
     ]
