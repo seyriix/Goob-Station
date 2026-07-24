@@ -61,7 +61,7 @@
       points: 1
       required: false
     Tail:
-      points: 2
+      points: 1
       required: true
       defaultMarkings: [ ResomiDefaultTail ]
     HeadTop:
@@ -69,10 +69,10 @@
       required: true
       defaultMarkings: [ ResomiDefaultEars]
     HeadSide:
-      points: 8
+      points: 5
       required: false
     Chest:
-      points: 10
+      points: 5
       required: false
     UndergarmentBottom:
       points: 1

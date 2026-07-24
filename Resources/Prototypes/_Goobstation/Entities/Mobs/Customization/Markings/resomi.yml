@@ -127,6 +127,8 @@
   sprites:
   - sprite: _Goobstation/Mobs/Customization/Resomi/head_top.rsi
     state: big_ears
+  - sprite: _Goobstation/Mobs/Customization/Resomi/head_top.rsi
+    state: big_ears_lower
 
 - type: marking
   id: ResomiDefaultEars
@@ -136,6 +138,19 @@
   sprites:
   - sprite: _Goobstation/Mobs/Customization/Resomi/head_top.rsi
     state: default_ears
+  - sprite: _Goobstation/Mobs/Customization/Resomi/head_top.rsi
+    state: default_ears_lower
+
+- type: marking
+  id: ResomiSmallEars
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Resomi]
+  sprites:
+  - sprite: _Goobstation/Mobs/Customization/Resomi/head_top.rsi
+    state: small_ears
+  - sprite: _Goobstation/Mobs/Customization/Resomi/head_top.rsi
+    state: small_ears_lower
 
 # Chest
 - type: marking

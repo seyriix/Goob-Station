@@ -4,6 +4,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
+
+# TAILS
 marking-ResomiDefaultTail = Default tail
 marking-ResomiDefaultTail-default_tail = Tail
 # Stripes
@@ -30,5 +32,13 @@ marking-ResomiDefaultTailBig = Default big tail feathers
 marking-ResomiDefaultTailBig-default_bigfeathers = Big tail feathers
 marking-ResomiDefaultTailBig-default_tail = Tail
 
+# EARS
 marking-ResomiDefaultEars = Default ears
 marking-ResomiDefaultEars-default_ears = Default ears
+marking-ResomiDefaultEars-default_ears_lower = Lower ears
+marking-ResomiBigEars = Big ears
+marking-ResomiBigEars-big_ears = Big ears
+marking-ResomiBigEars-big_ears_lower = Lower ears
+marking-ResomiSmallEars = Small ears
+marking-ResomiSmallEars-small_ears = Small ears
+marking-ResomiSmallEars-small_ears_lower = Lower ears
